@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://124.161.16.90:1110/ipa/mygame.ipa</string>
+					<string>http://192.168.34.64/ipa/v5.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://124.161.16.90:1110/ipa/57.png</string>
+					<string>http://192.168.34.64/ipa/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://124.161.16.90:1110/ipa/512.png</string>
+					<string>http://192.168.34.64/ipa/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.elysium.ttshuadapai</string>
+				<string>com.liujianhua.wanpaidaniu</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>MyGame</string>
+				<string>????</string>
 			</dict>
 		</dict>
 	</array>
