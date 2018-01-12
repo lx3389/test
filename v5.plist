@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.liujianhua.wanpaidaniu</string>
+				<string>com.xujiasheng.fuhaozjh</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>????</string>
+				<string>玩牌大牛</string>
 			</dict>
 		</dict>
 	</array>
