@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.20.0.160/ipa/outtest.ipa</string>
+					<string>https://res.songrenqing.cn/ipa/out.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://10.20.0.160/ipa/57.png</string>
+					<string>https://res.songrenqing.cn/ipa/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://10.20.0.160/ipa/512.png</string>
+					<string>https://res.songrenqing.cn/ipa/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
